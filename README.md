@@ -15,7 +15,7 @@ The aim of this project is to implement the Tic Tac Toe Game using Ruby as [Odin
 * user interface displaying the mock of the basic flow of the game added
 * User interface with game logic and results added. Game is now playable from the console.
 * Test cases were added using RSpec.
-* Milestones achieved will be updated as project progresses.
+
 
 # Tic Tac Toe
 This is a collaborative project to test our understanding of the [Object Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
